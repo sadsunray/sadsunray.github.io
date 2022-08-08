@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+Disallow: /pfingsten
+Disallow: /alex
+Disallow: /uploads
+Disallow: /tmp
+Disallow: /tanteju
