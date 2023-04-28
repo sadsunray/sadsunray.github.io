@@ -7728,12 +7728,14 @@ body {
 }
 #i7agar{
   font-weight:700;
-  box-shadow:0 8px 0px 0 black ;
   background-repeat:repeat;
   background-position:left top;
   background-attachment:scroll;
   background-size:auto;
+}
+.menu_highlight {
   background-image:linear-gradient(#f6c837 0%, #f6c837 100%);
+  box-shadow:0 8px 0px 0 black ;
 }
 #ix6rfx{
   font-weight:normal;
