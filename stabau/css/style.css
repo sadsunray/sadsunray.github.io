@@ -409,7 +409,6 @@ ul.nav a.menu-parent {
   background-position: left top;
   background-attachment: scroll;
   background-size: auto;
-  background-image: linear-gradient(#ffffff 0%, #ffffff 100%);
   width: auto;
   justify-content: space-around;
   text-align: center;
