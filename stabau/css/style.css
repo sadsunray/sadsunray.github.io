@@ -7726,7 +7726,7 @@ body {
   box-shadow:0px 0px 0px 0px black ;
 }
 #i7agar{
-  font-weight:700;
+  font-weight:400;
   background-repeat:repeat;
   background-position:left top;
   background-attachment:scroll;
@@ -7735,6 +7735,7 @@ body {
 .menu_highlight {
   background-image:linear-gradient(#f6c837 0%, #f6c837 100%);
   box-shadow:0 8px 0px 0 black ;
+  font-weight: 700;
 }
 #ix6rfx{
   font-weight:normal;
