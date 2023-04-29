@@ -386,7 +386,10 @@ ul.nav li li {
     height: 24px;
     width: 24px;
   }
-  
+  .image {
+    display: block;
+    position: relative;
+  }
 .gjs-row {
     display: flex;
     justify-content: flex-start;
