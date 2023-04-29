@@ -5882,7 +5882,7 @@ div#slider figure {
   background-position: center center;
   background-attachment: scroll;
   background-size: auto;
-  background-image: url('https://raw.githubusercontent.com/sadsunray/stabau/eec2e5a2700da004a6609a8d137030eefd5036ef/images/pl.svg');
+  background-image: url('../images/pl.svg');
   float: right;
   position: static;
 }
@@ -5893,7 +5893,7 @@ div#slider figure {
   background-position: center center;
   background-attachment: scroll;
   background-size: auto;
-  background-image: url('https://raw.githubusercontent.com/sadsunray/stabau/eec2e5a2700da004a6609a8d137030eefd5036ef/images/gb.svg');
+  background-image: url('../images/gb.svg');
   float: right;
   position: static;
 }
@@ -5904,7 +5904,7 @@ div#slider figure {
   background-position: center center;
   background-attachment: scroll;
   background-size: auto;
-  background-image: url('https://raw.githubusercontent.com/sadsunray/stabau/eec2e5a2700da004a6609a8d137030eefd5036ef/images/de.svg');
+  background-image: url('../images/de.svg');
   float: right;
   position: static;
 }
