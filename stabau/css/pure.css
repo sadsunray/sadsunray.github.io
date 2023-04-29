@@ -382,6 +382,11 @@ ul.nav li li {
     white-space: normal;
 }
 
+.image.is-24x24 {
+    height: 24px;
+    width: 24px;
+  }
+  
 .gjs-row {
     display: flex;
     justify-content: flex-start;
